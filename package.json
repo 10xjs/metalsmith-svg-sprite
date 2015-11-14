@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-svg-sprite",
   "author": "Neal Granger <neal@nealg.com>",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "CC0-1.0",
   "main": "dist/src/index.js",
   "repository": "nealgranger/metalsmith-svg-sprite",
