@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "metalab"
+  ],
+  "env": {
+    "development": {
+      "sourceMaps": true
+    }
+  }
+}
